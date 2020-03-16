@@ -1,0 +1,8 @@
+{
+  "name": "cryptography",
+  "version": "1.0.0",
+  "description": "Fundamentals of applied cryptography",
+  "main": "hashing.js",
+  "author": "bjohns@logitech.com",
+  "license": "ISC"
+}
